@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Screen1.qml</file>
+        <file>Screen2.qml</file>
+        <file>Screen3.qml</file>
+        <file>Screen_btn.qml</file>
+        <file>main.qml</file>
+    </qresource>
+</RCC>
